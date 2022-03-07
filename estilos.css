@@ -1,14 +1,24 @@
 body {
     margin: 0;
     padding-top: 10vh;
-    background-color: #cccccc;
+    background-color: #9A8D1D;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 
+li {
+    display: inline;
+  }
+
 h1 {
-    font-weight: bold;
-    text-align: justify;
+    text-align: center
+}
+
+
+h2{
+
+    text-align: justify
+    
 }
 
 img {
@@ -18,7 +28,3 @@ img {
     width: 40%;
   }
 
-center {
-    text-align: center;
-    border: 3px solid green;
-  }
